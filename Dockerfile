@@ -1,5 +1,5 @@
-FROM python:3.5-slim
-MAINTAINER Danil Ivanov
+FROM python:3.6.8-slim
+LABEL mainainer="Danil Ivanov"
 
 ENV PYTHONBUFFERED 1
 

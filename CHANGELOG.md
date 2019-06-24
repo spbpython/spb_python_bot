@@ -1,61 +1,86 @@
-<!---
-Changelog Format:
+### 0.5.11 
 
-### Version X.Y.Z date YYYYMMDD: 
+* fix message processing
 
-* changes title - changes description
-              
-Note: log only changes which go into release
-Note: last records on top 
---->
+### 0.5.10
 
-### Version 0.5.1 20180122
+* fix bot without mongo_url 
+
+### 0.5.8
+
+* Add help for this module
+
+### 0.5.7
+
+* Update python version
+
+### 0.5.6
+
+* Import single rules from this
+
+### 0.5.5
+
+* Change chat command content
+
+### 0.5.4
+
+* /chats command
+
+### 0.5.3
+
+* /command 
+
+### 0.5.2
+
+* fix message processing 
+
+### 0.5.1
 
 * Split updates to different collections
 
-### Version 0.5 20180121
+### 0.5
 
 * Write all chat updates to mongodb
 
-### Version 0.4.2 20180120
+### 0.4.2
 
 * Add user agent to monitoring
 
-### Version 0.4.1 20180120
+### 0.4.1
 
 * Add monitoring
 
-### Version 0.3.7 20170806
+### 0.3.7
 
 * Fix spaces in Hello world
 * Update python version
 
-### Version 0.3.4 20170613
+### 0.3.4
 
 * Allow import this for all
 
-### Version 0.3.3 20170426
+### 0.3.3
 
 * Fix answer fo non-text message
 
-### Version 0.3.2 20170426
+### 0.3.2
 
 * Match peps with hashtag
 
-### Version 0.3.1 20170418
+### 0.3.1
 
 * Disable web page preview for "let me search for you"
 
-### Version 0.3 20170418
+### 0.3
 
 * Moderator commands that allowed only for moderators
 * Let me search for you in google and wiki
 
-### Version 0.2: 20170417
+### 0.2:
 
 * Zen of Spb Python Chat
 
-### Version 0.1: 20170416
+### 0.1:
 
 * import this — zen of python
 * import __hello__ - Hello world
